@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### ⚡👨‍💻 A Curated List of My `gists`
+
+1. [JupyterLab in Isolated Miniconda Environment on Local or Remote Machine](https://gist.github.com/singh-ramanpreet/d2e8810a4f72f2beed0f1c22ab839d20)
+
 <!--
 **singh-ramanpreet/singh-ramanpreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
