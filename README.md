@@ -2,7 +2,8 @@
 
 #### ⚡👨‍💻 A Curated List of My `gists`
 
-1. [JupyterLab in Isolated Miniconda Environment on Local or Remote Machine](https://gist.github.com/singh-ramanpreet/d2e8810a4f72f2beed0f1c22ab839d20)
+1. [Linux Setup in Windows 10 Home using WSL2](https://gist.github.com/singh-ramanpreet/89d5bc7bb9fec68e13f01f6ae460bd98)
+2. [JupyterLab in Isolated Miniconda Environment on Local or Remote Machine](https://gist.github.com/singh-ramanpreet/d2e8810a4f72f2beed0f1c22ab839d20)
 
 <!--
 **singh-ramanpreet/singh-ramanpreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
