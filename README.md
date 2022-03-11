@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-#### ⚡👨‍💻 A Curated List of My `gists`
+I am aspiring Data Scientist.
 
-1. [Linux Setup in Windows 10 Home using WSL2](https://gist.github.com/singh-ramanpreet/89d5bc7bb9fec68e13f01f6ae460bd98)
-2. [JupyterLab in Isolated Miniconda Environment on Local or Remote Machine](https://gist.github.com/singh-ramanpreet/d2e8810a4f72f2beed0f1c22ab839d20)
+I know Python, Bash, C++, SQL, Keras, ROOT, Docker, LaTeX & MS Office.
 
 <!--
-**singh-ramanpreet/singh-ramanpreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
