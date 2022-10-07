@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-I am aspiring Data Scientist.
-
-I know Python, Bash, C++, SQL, Keras, ROOT, Docker, LaTeX & MS Office.
-
 <!--
 Here are some ideas to get you started:
 
